@@ -1,4 +1,6 @@
-
+# This is how to do git stuff
 git add filename
 git commit -m "log message"
 git push origin master
+
+# That's all! No big deal.
