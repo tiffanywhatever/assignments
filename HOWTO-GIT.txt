@@ -1,0 +1,4 @@
+
+git add filename
+git commit -m "log message"
+git push origin master
